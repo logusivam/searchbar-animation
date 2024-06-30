@@ -2,7 +2,7 @@
 
 This project showcases how to create an animated search bar using HTML and CSS. The animated search bar is designed to enhance user experience with smooth transitions and interactive elements. This can be a great addition to any modern web application, making it more user-friendly and visually appealing.
 
-# Demo 
+## Demo 
 click here for [Live demo](https://logusivam.github.io/searchbar-animation/)
 
 
